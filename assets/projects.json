@@ -1,0 +1,24 @@
+{
+  "projects": [
+    {
+      "repo": "Portfolio",
+      "description": "A responsive engineering portfolio presenting full-stack projects, resume content, and production web UI work.",
+      "language": "JavaScript"
+    },
+    {
+      "repo": "educational-webpage",
+      "description": "A complete institutional web platform for INSEA with responsive pages, structured content, and clear navigation.",
+      "language": "JavaScript"
+    },
+    {
+      "repo": "gps-treasure-hunt",
+      "description": "A realtime GPS treasure hunt app using JavaScript and Firebase for location-based gameplay and persistent state.",
+      "language": "JavaScript"
+    },
+    {
+      "repo": "sql-data-cleaning-project",
+      "description": "A SQL data-cleaning project covering duplicate removal, standardization, null handling, and analysis-ready tables.",
+      "language": "SQL"
+    }
+  ]
+}
